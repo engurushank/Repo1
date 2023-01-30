@@ -1,5 +1,9 @@
 This is a first file
+<<<<<<< Updated upstream
 zdf
 some trhind
 2 stash
+=======
+zdfgxzfvg
+>>>>>>> Stashed changes
 new line
